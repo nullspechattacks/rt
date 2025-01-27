@@ -1,7 +1,7 @@
 import asyncio
 import time
 
-from aiogram import Bot, Dispatcher
+from aiogram import Bot, Dispatcher, types
 from aiogram.filters import Command
 
 bot = Bot(token="7413805589:AAGy3U8bylU8AOYIXOVoyrsODnhvCIw5oUI")
